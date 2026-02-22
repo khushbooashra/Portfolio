@@ -159,7 +159,7 @@ export const portfolioData = {
     {
       name: "Google Data Analytics Professional Certificate",
       issuer: "Google",
-      type: "Industry Certificate"
+      type: "industry"
     },
     {
       name: "Faculty Development Programme on Questionnaire Development and Data Analysis with R",
@@ -169,7 +169,7 @@ export const portfolioData = {
     {
       name: "Green, Social and Sustainability Bonds: Sustainable finance solutions for emerging markets",
       issuer: "The World Bank",
-      type: "Policy-Level Certification"
+      type: "policy-level"
     },
     {
       name: "Asset Management Job Simulation",
