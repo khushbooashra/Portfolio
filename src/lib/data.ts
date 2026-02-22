@@ -78,8 +78,22 @@ export const portfolioData = {
   publications: {
     papers: [
       {
-        title: "Acquisition Impact: Evaluating Financial Performance of Axis Bank and Citibank Through Financial Modelling",
+        title: "Financial Transformation: A Comparative Analysis of Axis Bank and Citibank Pre and Post Acquisition Through Financial Modelling.",
         authors: "Dr Rashmi Goel, Ms. Simona Dutta, Ms. Khushboo Ashra",
+        year: "2024",
+        status: "Manuscript under review",
+        type: "research"
+      },
+      {
+        title: "Explaining Greenhouse Gas  Emission Drivers Across Developed and Developing Economies: Evidence from an Explainable MachinLearning Framework",
+        authors: "Prof. Pratibha Rai, A Jiran Meitei, Sonali Chadha, Ms. Khushboo Ashra",
+        year: "2024",
+        status: "Manuscript under review",
+        type: "research"
+      },
+      {
+        title: "Can a modified UTAUT explain youth adoption of sustainable investment when asset-specific perceptions are considered? - Evidence from India",
+        authors: "Ms. Simona Dutta, Ms. Khushboo Ashra",
         year: "2024",
         status: "Manuscript under review",
         type: "research"
@@ -88,6 +102,12 @@ export const portfolioData = {
     chapters: [
       {
         title: "From Sustenance to Enterprise: Leveraging Entrepreneurship, Policy and Incubation for a Profitable Indian Agricultural Sector",
+        publication: "ICSSR-funded edited volume of the International Conference on Agritech",
+        status: "Accepted for publication",
+        type: "book-chapter"
+      },
+      {
+        title: "Policy Innovations for Viksit Bharat: Insights, Challenges and Strategic Pathways",
         publication: "ICSSR-funded edited volume of the International Conference on Agritech",
         status: "Accepted for publication",
         type: "book-chapter"
