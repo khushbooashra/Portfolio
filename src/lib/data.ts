@@ -117,18 +117,30 @@ export const portfolioData = {
   projects:{
   items: [
     {
-      title: "Carbon Credit Market Landscape in Emerging Economies",
+      title: "India's Climate Finance in Budget 2026-27: A Policy Snapshot",
       description:
-        "Quantitative analysis of voluntary and compliance carbon markets with policy comparison and financial modeling.",
-      year: "2025",
-      file: "/Blue Finance.pptx"
+        `India ranks among the most climate-vulnerable countries globally, with rising economic losses from extreme weather events and a declining performance on global climate indices. 
+          This short policy analysis examines:
+          1. The scale of climate finance within total public expenditure
+          2. Ministry-wise allocations linked to climate action
+          3. The introduction of Carbon Capture, Utilization and Storage (CCUS) 
+          4. The persistent gap between budgeted allocations and actual expenditure`,
+      year: "2026",
+      file: "/Budget 2026-27.pdf"
     },
     {
-      title: "Sustainability Risk Financial Modeling Framework",
+      title: "Exploring the Future of Blue Finance: Preserving Marine Ecosystems Through Innovative Investments",
       description:
-        "Built a financial risk scoring model integrating ESG metrics with Monte Carlo simulations.",
+        `As we face increasing environmental challenges, Blue Finance is emerging as a critical pathway to protect and restore our oceans. In this slideshow, I cover:
+          1. Developed a structured presentation on Blue Finance and its role within the broader climate finance and blue economy framework.
+          2. Analysed financial instruments such as Blue Bonds and Blue Loans, highlighting their structure, purpose, and global adoption trends.
+          3. Examined key application areas including sustainable fisheries, marine conservation, renewable marine energy, sustainable coastal tourism, and marine pollution control.
+          4. Mapped international developments in blue finance, including initiatives by multilateral institutions and emerging market issuances.
+          5. Assessed challenges related to financial infrastructure, regulatory alignment, and sustainability standards in blue bond markets.
+          6. Synthesised secondary research from institutional sources (e.g., multilateral development banks and global finance institutions) into an accessible policy-oriented format.
+          7. Demonstrated the ability to translate complex sustainable finance concepts into structured, presentation-ready analytical content.`,
       year: "2025",
-      file: "/Budget 2026-27.pdf"
+      file: "/Blue Finance.pptx"
     }
   ]
 },
