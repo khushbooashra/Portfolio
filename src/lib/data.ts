@@ -131,14 +131,14 @@ export const portfolioData = {
     {
       title: "Exploring the Future of Blue Finance: Preserving Marine Ecosystems Through Innovative Investments",
       description:[
-        `As we face increasing environmental challenges, Blue Finance is emerging as a critical pathway to protect and restore our oceans. In this slideshow, I cover:,
-          1. Developed a structured presentation on Blue Finance and its role within the broader climate finance and blue economy framework.,
-          2. Analysed financial instruments such as Blue Bonds and Blue Loans, highlighting their structure, purpose, and global adoption trends.,
-          3. Examined key application areas including sustainable fisheries, marine conservation, renewable marine energy, sustainable coastal tourism, and marine pollution control.,
-          4. Mapped international developments in blue finance, including initiatives by multilateral institutions and emerging market issuances.,
-          5. Assessed challenges related to financial infrastructure, regulatory alignment, and sustainability standards in blue bond markets.,
-          6. Synthesised secondary research from institutional sources (e.g., multilateral development banks and global finance institutions) into an accessible policy-oriented format.,
-          7. Demonstrated the ability to translate complex sustainable finance concepts into structured, presentation-ready analytical content.`],
+        "As we face increasing environmental challenges, Blue Finance is emerging as a critical pathway to protect and restore our oceans. In this slideshow, I cover:",
+          "1. Developed a structured presentation on Blue Finance and its role within the broader climate finance and blue economy framework.",
+          "2. Analysed financial instruments such as Blue Bonds and Blue Loans, highlighting their structure, purpose, and global adoption trends.",
+          "3. Examined key application areas including sustainable fisheries, marine conservation, renewable marine energy, sustainable coastal tourism, and marine pollution control.",
+          "4. Mapped international developments in blue finance, including initiatives by multilateral institutions and emerging market issuances.",
+          "5. Assessed challenges related to financial infrastructure, regulatory alignment, and sustainability standards in blue bond markets.",
+          "6. Synthesised secondary research from institutional sources (e.g., multilateral development banks and global finance institutions) into an accessible policy-oriented format.",
+          "7. Demonstrated the ability to translate complex sustainable finance concepts into structured, presentation-ready analytical content."],
       year: "2025",
       file: "/Blue Finance.pptx"
     }
