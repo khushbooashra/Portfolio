@@ -164,7 +164,7 @@ export const portfolioData = {
     {
       name: "Faculty Development Programme on Questionnaire Development and Data Analysis with R",
       issuer: "Academic Institution",
-      type: "Academic  Certification"
+      type: "academic"
     },
     {
       name: "Green, Social and Sustainability Bonds: Sustainable finance solutions for emerging markets",
@@ -174,22 +174,22 @@ export const portfolioData = {
     {
       name: "Asset Management Job Simulation",
       issuer: "JP Morgan Chase",
-      type: "Professional Experience Simulation"
+      type: "professional"
     },
     {
       name: "Corporate Finance: Environmental, Social and Governance (ESG)",
       issuer: "LinkedIn Learning",
-      type: "Professional / Continuing Education"
+      type: "professional"
     },
     {
       name: "IOS and Android App Development",
       issuer: "WhiteHat Jr.",
-      type: "Technical Skill Certification"
+      type: "technical"
     },
     {
       name: "Certified Math Instructor",
       issuer: "WhiteHat Jr.",
-      type: "Teaching / Instructor Certification"
+      type: "teaching"
     }
   ],
 
