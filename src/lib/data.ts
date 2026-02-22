@@ -157,34 +157,39 @@ export const portfolioData = {
 
   certifications: [
     {
+      name: "Google Data Analytics Professional Certificate",
+      issuer: "Google",
+      type: "Industry Certificate"
+    },
+    {
       name: "Faculty Development Programme on Questionnaire Development and Data Analysis with R",
       issuer: "Academic Institution",
-      type: "academic"
+      type: "Academic  Certification"
     },
     {
       name: "Green, Social and Sustainability Bonds: Sustainable finance solutions for emerging markets",
       issuer: "The World Bank",
-      type: "professional"
+      type: "Policy-Level Certification"
     },
     {
       name: "Asset Management Job Simulation",
       issuer: "JP Morgan Chase",
-      type: "professional"
+      type: "Professional Experience Simulation"
     },
     {
       name: "Corporate Finance: Environmental, Social and Governance (ESG)",
       issuer: "LinkedIn Learning",
-      type: "professional"
+      type: "Professional / Continuing Education"
     },
     {
       name: "IOS and Android App Development",
       issuer: "WhiteHat Jr.",
-      type: "technical"
+      type: "Technical Skill Certification"
     },
     {
       name: "Certified Math Instructor",
       issuer: "WhiteHat Jr.",
-      type: "teaching"
+      type: "Teaching / Instructor Certification"
     }
   ],
 
