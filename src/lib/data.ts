@@ -121,14 +121,14 @@ export const portfolioData = {
       description:
         "Quantitative analysis of voluntary and compliance carbon markets with policy comparison and financial modeling.",
       year: "2025",
-      file: "/project-carbon-market.pdf"
+      file: "/Blue Finance.pptx"
     },
     {
       title: "Sustainability Risk Financial Modeling Framework",
       description:
         "Built a financial risk scoring model integrating ESG metrics with Monte Carlo simulations.",
       year: "2025",
-      file: "/project-quant-model.xlsx"
+      file: "/Budget 2026-27.pdf"
     }
   ]
 },
