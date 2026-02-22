@@ -17,9 +17,11 @@ export default function ProjectsSection() {
               {project.title}
             </h4>
 
-            <p className="text-gray-700 mb-4">
-              {project.description}
-            </p>
+            <ul className="list-decimal ml-6 text-gray-700 mb-4 space-y-1">
+            {project.description.map((point, i) => (
+                <li key={i}>{point}</li>
+            ))}
+            </ul>
 
             <div className="flex items-center justify-between">
               <span className="text-sm text-gray-600">

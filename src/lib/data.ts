@@ -118,13 +118,13 @@ export const portfolioData = {
   items: [
     {
       title: "India's Climate Finance in Budget 2026-27: A Policy Snapshot",
-      description:
-        `India ranks among the most climate-vulnerable countries globally, with rising economic losses from extreme weather events and a declining performance on global climate indices. 
-          This short policy analysis examines:
-          1. The scale of climate finance within total public expenditure
-          2. Ministry-wise allocations linked to climate action
-          3. The introduction of Carbon Capture, Utilization and Storage (CCUS) 
-          4. The persistent gap between budgeted allocations and actual expenditure`,
+      description:[
+        "India ranks among the most climate-vulnerable countries globally, with rising economic losses from extreme weather events and a declining performance on global climate indices.",
+          "This short policy analysis examines:",
+          "1. The scale of climate finance within total public expenditure.",
+          "2. Ministry-wise allocations linked to climate action.",
+          "3. The introduction of Carbon Capture, Utilization and Storage (CCUS) .",
+          "4. The persistent gap between budgeted allocations and actual expenditure."],
       year: "2026",
       file: "/Budget 2026-27.pdf"
     },
