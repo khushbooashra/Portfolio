@@ -16,7 +16,9 @@ export default function ProjectsSection() {
             <h4 className="text-xl font-semibold mb-2">
               {project.title}
             </h4>
-
+            <p className="text-gray-700 mb-3">
+            {project.intro}
+            </p>
             <ul className="list-decimal ml-6 text-gray-700 mb-4 space-y-1">
             {project.description.map((point, i) => (
                 <li key={i}>{point}</li>
