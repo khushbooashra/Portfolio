@@ -7,7 +7,7 @@ export const portfolioData = {
     linkedin: "https://www.linkedin.com/in/khushboo-ashra-a46943189/",
     location: "Delhi, India",
     tagline: "Specialized in mixed-methods research, sustainable finance, and statistical analysis",
-    bio: "Research Associate with 5+ years of experience in mixed methods research, data analysis, and financial modeling. Currently contributing to ICSSR-sponsored Ministry of Education research projects, with expertise in PLS-SEM methodology and sustainable finance research."
+    bio: "Research Analyst with experience in economic policy evaluation, sustainability analytics, and quantitative modelling across emerging market contexts. Skilled in regression analysis, PLS-SEM, stakeholder research, and structured data interpretation. Experienced in delivering evidence-based insights, sector analysis, and policy impact assessments. Proficient in Python, R, Tableau, and BigQuery for data analysis and visualization"
   },
 
   education: [
