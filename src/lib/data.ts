@@ -1,7 +1,7 @@
 export const portfolioData = {
   personal: {
     name: "Khushboo Ashra",
-    title: "Research Associate & Data Analyst",
+    title: "Research Analyst & Data Analyst",
     email: "khushbooashra21@gmail.com",
     phone: "+91 9871604809",
     linkedin: "https://www.linkedin.com/in/khushboo-ashra-a46943189/",
