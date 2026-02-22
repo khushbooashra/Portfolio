@@ -6,7 +6,7 @@ export const portfolioData = {
     phone: "+91 9871604809",
     linkedin: "https://www.linkedin.com/in/khushboo-ashra-a46943189/",
     location: "Delhi, India",
-    tagline: "Specialized in Sustainable Finance, Quantitative Research & Financial Modeling",
+    tagline: "Specialized in mixed-methods research, sustainable finance, and statistical analysis",
     bio: "Research Associate with 5+ years of experience in mixed methods research, data analysis, and financial modeling. Currently contributing to ICSSR-sponsored Ministry of Education research projects, with expertise in PLS-SEM methodology and sustainable finance research."
   },
 
