@@ -80,18 +80,21 @@ export const portfolioData = {
       {
         title: "Financial Transformation: A Comparative Analysis of Axis Bank and Citibank Pre and Post Acquisition Through Financial Modelling.",
         authors: "Dr Rashmi Goel, Ms. Simona Dutta, Ms. Khushboo Ashra",
+        year: "",
         status: "Manuscript under review",
         type: "research"
       },
       {
         title: "Explaining Greenhouse Gas  Emission Drivers Across Developed and Developing Economies: Evidence from an Explainable MachinLearning Framework",
         authors: "Prof. Pratibha Rai, A Jiran Meitei, Sonali Chadha, Ms. Khushboo Ashra",
+        year: "",
         status: "Manuscript under review",
         type: "research"
       },
       {
         title: "Can a modified UTAUT explain youth adoption of sustainable investment when asset-specific perceptions are considered? - Evidence from India",
         authors: "Ms. Simona Dutta, Ms. Khushboo Ashra",
+        year: "",
         status: "Manuscript under review",
         type: "research"
       }
