@@ -91,10 +91,17 @@ const HeroSection = () => {
             </button>
             <button 
               onClick={() => scrollToSection('research')}
-              className="border border-gray-300 text-gray-700 px-8 py-3 rounded-lg font-medium hover:bg-gray-50 transition-colors"
+              className="bg-blue-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
             >
               View Research
             </button>
+            <a
+            href="/resume-khushboo-ashra.pdf"
+            download
+            className="bg-blue-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl"
+          >
+            Download Resume
+          </a>
           </div>
 
           {/* Scroll Indicator */}
