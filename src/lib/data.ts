@@ -1,7 +1,7 @@
 export const portfolioData = {
   personal: {
     name: "Khushboo Ashra",
-    title: "Research Analyst & Data Analyst",
+    title: "RESEARCH ANALYST | ECONOMIC & SUSTAINABILITY ANALYTICS",
     email: "khushbooashra21@gmail.com",
     phone: "+91 9871604809",
     linkedin: "https://www.linkedin.com/in/khushboo-ashra-a46943189/",
@@ -131,13 +131,8 @@ export const portfolioData = {
       title: "Exploring the Future of Blue Finance: Preserving Marine Ecosystems Through Innovative Investments",
       intro:"As we face increasing environmental challenges, Blue Finance is emerging as a critical pathway to protect and restore our oceans. In this slideshow, I cover:",
       description:[
-          "Developed a structured presentation on Blue Finance and its role within the broader climate finance and blue economy framework.",
-          "Analysed financial instruments such as Blue Bonds and Blue Loans, highlighting their structure, purpose, and global adoption trends.",
-          "Examined key application areas including sustainable fisheries, marine conservation, renewable marine energy, sustainable coastal tourism, and marine pollution control.",
-          "Mapped international developments in blue finance, including initiatives by multilateral institutions and emerging market issuances.",
-          "Assessed challenges related to financial infrastructure, regulatory alignment, and sustainability standards in blue bond markets.",
-          "Synthesised secondary research from institutional sources (e.g., multilateral development banks and global finance institutions) into an accessible policy-oriented format.",
-          "Demonstrated the ability to translate complex sustainable finance concepts into structured, presentation-ready analytical content."],
+          "Developed a research-based presentation on Blue Finance and marine-focused climate financing instruments.",
+          "Analysed blue bonds and their role in supporting sustainable ocean and coastal development."],
       year: "2025",
       file: "/Blue Finance.pptx"
     }

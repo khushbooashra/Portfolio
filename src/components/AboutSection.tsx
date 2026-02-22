@@ -80,7 +80,8 @@ const AboutSection = () => {
           </div>
           <div className="bg-gray-50 p-6 rounded-lg">
             <div className="text-3xl font-bold text-blue-600 mb-2">98.47</div>
-            <div className="text-gray-600">Percentile Score In UGN-NET</div>
+              <span className="block">Percentile Score In</span>
+              <span className="block">UGC-NET</span>
           </div>
           <div className="bg-gray-50 p-6 rounded-lg">
             <div className="text-3xl font-bold text-blue-600 mb-2">6+</div>
