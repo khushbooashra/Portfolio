@@ -114,6 +114,24 @@ export const portfolioData = {
       }
     ]
   },
+  projects:{
+  items: [
+    {
+      title: "Carbon Credit Market Landscape in Emerging Economies",
+      description:
+        "Quantitative analysis of voluntary and compliance carbon markets with policy comparison and financial modeling.",
+      year: "2025",
+      file: "/project-carbon-market.pdf"
+    },
+    {
+      title: "Sustainability Risk Financial Modeling Framework",
+      description:
+        "Built a financial risk scoring model integrating ESG metrics with Monte Carlo simulations.",
+      year: "2025",
+      file: "/project-quant-model.xlsx"
+    }
+  ]
+},
 
   skills: {
     technical: [
